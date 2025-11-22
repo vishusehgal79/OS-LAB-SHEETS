@@ -58,7 +58,6 @@ while True:
                 t += rem_bt[i]
                 wt[i] = t - processes[i][1]
                 rem_bt[i] = 0
-
     if done:
         break
 
